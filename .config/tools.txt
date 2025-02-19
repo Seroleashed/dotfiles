@@ -1,0 +1,7 @@
+eza
+zoxide
+zsh
+tmux
+nvim
+fzf
+bat
